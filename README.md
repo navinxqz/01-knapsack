@@ -1,2 +1,2 @@
 # 01-knapsack
-Knapsack problems 
+Knapsack problems solved by using o1 knapsack box simulation
